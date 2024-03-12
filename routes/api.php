@@ -14,7 +14,7 @@ use App\Http\controllers\PasswordResetController;
 | be assigned to the "api" middleware group. Make something great!
 |
 */
-
+// Hii I am Anil Kumar I creating for laravel project
 // Route::post('/register',[UserController::class, 'register']);
 Route::post('/register', [UserController::class, 'register']);
 Route::post('/login', [UserController::class, 'login']);
